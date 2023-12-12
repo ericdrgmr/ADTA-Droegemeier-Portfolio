@@ -1,0 +1,18 @@
+---
+title: "Eric Droegemeier"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/EricDroegemeier
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/eric-droegemeier-494809175/
+    - icon: github
+      text: Github
+      href: https://github.com/ericdrgmr
+---
+
+About this blog

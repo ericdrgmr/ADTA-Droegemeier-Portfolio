@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Eric Droegemeier's Portfolio"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/ericdrgmr
+      - icon: twitter
+        href: https://twitter.com/EricDroegemeier
+      - icon: linkedin
+        href: https://www.linkedin.com/in/eric-droegemeier-494809175/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Website"
+author: "Eric Droegemeier"
+date: "2023-12-09"
+categories: [data]
+---
+
+This is Eric Droegemeier's portfolio for ADTA 5410
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
